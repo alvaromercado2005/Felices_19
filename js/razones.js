@@ -5,10 +5,10 @@ const listaRazones = [
     "Por estar siempre junto a mi en los buenos y malos momentos",
     "Por esos dibujos que me haces y me hacen sentir tan especial",
     "Por esas llamadas que hacen que me sienta mucho mas cercad de ti",
-    "Por cada te amo que me escribes y me hacen brillar los ojos",
+    "Por cada te amo que me escribes y se me acelera el corazón",
     "Por esas tardes que parecen que pasan en segundos ",
     "Por esas miles de risas que me sacas cada vez que estoy junto a ti",
-    "Por ser esa persona que podre decir en un futuro que sera mi mujer",
+    "Por ser una persona increíble de la que tengo que presumir de ser la mejor novia del mundo",
     "Por siempre preocuparte por mi y hacerme sentir que soy importante para ti",
 ];
 

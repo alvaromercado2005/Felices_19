@@ -7,94 +7,76 @@
 // ⚠️ Fechas y textos de atrás son de EJEMPLO: cámbialos por los tuyos.
 const recuerdos = [
     {
-        imagen: "1.jpg",
-        pie: "25/06/2026",
-        fecha: "3 de octubre de 2025",
-        texto: "Aquel día supe que quería muchos viajes más contigo."
+        imagen: "4.jpeg",
+        pie: "Nuestra primera cita 🤍 ",
+        fecha: "17/04/2026",
+        texto: "Que bonitos recuerdos de ese primer día que te lleve tan nervioso a la granja a enseñarte los jardines y también el día que te abrí mi corazón de verdad mi amor y desde ese día estoy tan enamorado de ti 🤍🤍."
     },
     {
         imagen: "2.jpeg",
-        pie: "Una cena inolvidable 🍷",
-        fecha: "8/05/2026",
-        texto: "No me acuerdo de lo que cenamos, solo de lo que me reí contigo."
+        pie: "Primera cena sorpresa  🍣",
+        fecha: "08/05/2026",
+        texto: "Mi primera gran sorpresa que te di llevándote por primera vez al shusi, que te encantó y yo obligándote a hacerte una foto para el recuerdo y mientras tanto unos niños chocándose contra un cristal ajjajaja."
     },
     {
         imagen: "3.jpeg",
-        pie: "Paseo al atardecer ✨",
-        fecha: "9/05/2026",
-        texto: "El cielo estaba precioso, pero yo solo te miraba a ti."
-    },
-    {
-        imagen: "4.jpeg",
-        pie: "Tarde de risas y pelis 🍿",
-        fecha: "17/04/2025",
-        texto: "Mi plan favorito: cualquiera, si es contigo."
+        pie: "Nuestra primera gran fiesta 🐮",
+        fecha: "09/04/2026",
+        texto: "Esta fue la fiesta en la que empecé ya casi a presentarte a mis amigos y gente que quiero como mi novia y mi gran mujer y donde te hice esa foto que tanto tanto te gusta , ¿estará en la página ?."
     },
     {
         imagen: "5.jpeg",
-        pie: "Nuestro primer viaje juntos ✈️",
-        fecha: "8/06/2025",
-        texto: "Aquel día supe que quería muchos viajes más contigo."
+        pie: "Tarde en el pantano 🦆",
+        fecha: "08/06/2026",
+        texto: "Sé que no cuenta como una foto pero para mí es la más bonita que tenemos y tengo sobre todo el precioso recuerdo de estar junto a ti disfrutando viendo lo que tanto tanto te encantan tus patitos."
     },
     {
         imagen: "6.jpeg",
-        pie: "Una cena inolvidable 🍷",
+        pie: "Mi cumple 🎂",
         fecha: "26/06/2026",
-        texto: "No me acuerdo de lo que cenamos, solo de lo que me reí contigo."
+        texto: "Mi primer cumple junto a ti mi amor lo muchismo que disfruté de estar junto ti ese día riéndome y cantándote esas canciones que algunas de ellas te aprendiste gracias a mí y eso dice mucho de lo mucho que me amas te amoooo 🤍🤍🤍."
     },
     {
         imagen: "7.jpeg",
-        pie: "Paseo al atardecer ✨",
+        pie: "El día que te pedí ser mi novia 🌸🤍",
         fecha: "29/06/2026",
-        texto: "El cielo estaba precioso, pero yo solo te miraba a ti."
+        texto: "El día más importante para ti y para mi , sé que hubo factores que no tuve en cuenta , pero creo que fue de los días más especiales junto a ti en mi vida y que lo recordaré toda mi vida con todo el amor del mundo, y apartir de ese dia estaremos toda la vida juntos 🤍🤍🤍 ."
     },
     {
         imagen: "8.jpeg",
-        pie: "Tarde de risas y pelis 🍿",
-        fecha: "29/06/2026",
-        texto: "Mi plan favorito: cualquiera, si es contigo."
+        pie: "Nuestro primer mes 🧀",
+        fecha: "31/07/2026",
+        texto: "Ese primer aniversario del primer mes , esa cena en el campo tú y yo solos con nuestra cata de quesos y nuestras risas por nuestra borrachera y por el compañero que nos visitó a vernos."
     },
     {
         imagen: "9.jpeg",
-        pie: "Paseo al atardecer ✨",
-        fecha: "31/07/2026",
-        texto: "El cielo estaba precioso, pero yo solo te miraba a ti."
+        pie: "Eclipse 🌕",
+        fecha: "12/08/2026",
+        texto: "Un día único juntos viendo uno de los fenómenos más bonitos que he visto en mi vida junto a la persona más especial , más la tarde de risas y de experiencias nuevas juntos."
     },
     {
         imagen: "10.jpeg",
-        pie: "Paseo al atardecer ✨",
-        fecha: "7/08/2026",
-        texto: "El cielo estaba precioso, pero yo solo te miraba a ti."
+        pie: "Últimas tardes juntos 🌅",
+        fecha: "17/08/2026",
+        texto: "Ese día juntos que a lo mejor no fue el mejor para ti pero sé que nos lo pasamos muy bien juntos y estaré siempre ahí contigo mi amor junto a ti en los peores momentos."
     },
     {
         imagen: "11.jpeg",
-        pie: "Paseo al atardecer ✨",
-        fecha: "12/08/2026",
-        texto: "El cielo estaba precioso, pero yo solo te miraba a ti."
+        pie: "Segundo mesecito juntos 💝",
+        fecha: "26/08/2026",
+        texto: "Aniversario con sorpresas y muchos sentimientos, día en el que te hice muchos regalos como la caja la cual sería mi regalo del Erasmus, el sobre Pokémon el cual tardamos 10 minutos en abrir y casi ni pudimos , y sobretodo todos los sentimientos que tuvimos juntos al saber que sería el último aniversario que podríamos celebrar en persona , pero ya el siguiente podremos y por todo lo alto."
     },
     {
         imagen: "12.jpeg",
-        pie: "Paseo al atardecer ✨",
-        fecha: "17/08/2026",
-        texto: "El cielo estaba precioso, pero yo solo te miraba a ti."
-    },
-    {
-        imagen: "13.jpeg",
-        pie: "Paseo al atardecer ✨",
-        fecha: "17/08/2026  ",
-        texto: "El cielo estaba precioso, pero yo solo te miraba a ti."
+        pie: "Llamadas con mi borracha 🍻",
+        fecha: "11/11/2026",
+        texto: "Llamadas también borracha la cual no me puede reír tanto en mucho tiempo y tu aparte estabas súper feliz que es lo que más feliz me hace en este planeta."
     },
     {
         imagen: "14.jpeg",
-        pie: "Paseo al atardecer ✨",
-        fecha: "10 de noviembre de 2025",
-        texto: "El cielo estaba precioso, pero yo solo te miraba a ti."
-    },
-    {
-        imagen: "15.jpeg",
-        pie: "Paseo al atardecer ✨",
-        fecha: "10 de noviembre de 2025",
-        texto: "El cielo estaba precioso, pero yo solo te miraba a ti."
+        pie: "Tonterías en videollamadas 🤣",
+        fecha: "17/11/2026",
+        texto: "Esas videollamadas que a lo mejor yo estoy un poco más de bajón y tú siempre intentas sacarme una sonrisa como sea , y al revés igual siempre estando ahí el uno para el otro y siempre juntos y más enamorados que nunca."
     }
 ];
 
